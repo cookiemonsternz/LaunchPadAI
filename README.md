@@ -1,5 +1,5 @@
 # AI Generated patterns #
-An ai model which generates sequences of frames for a launchpad mini mk3.
+A neural network which generates sequences of frames for a launchpad mini mk3.
 This uses the launchpads midi ports to send lights to the launmchpad, and a basic sequential neural network for the ai model. 
 It was trained on a number of handmade image sequences, which were then augmented to create more variations. This also includes the ability to touch pads on the launchpad and trigger the effects.
 
